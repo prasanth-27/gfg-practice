@@ -1,8 +1,8 @@
-package September_2025.potdSept_10_2025;
+package September_2025.potdSept_11_2025;
 
 import java.util.Arrays;
 
-public class potdSept_10_2025 {
+public class potdSept_11_2025 {
     public static void main(String[] args) {
         int[] arr = {1, 3, 5, 8, 9, 2, 6, 7, 6, 8, 9};
         System.out.println(minJumpsOptimum(arr));
